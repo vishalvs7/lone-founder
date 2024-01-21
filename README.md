@@ -107,10 +107,6 @@ Integrating these AI tools into Lone Founder empowers solo entrepreneurs to work
 - Provide constructive feedback.
 - Help create a positive and inclusive environment.
 
-## License
-
-By contributing to Lone Founder, you agree that your contributions will be licensed under the MIT License.
-
 
 
 
