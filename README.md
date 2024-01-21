@@ -52,10 +52,7 @@ The Virtual Strategic Planner provides solo entrepreneurs with a roadmap for suc
 Implementation
 Integrating these AI tools into Lone Founder empowers solo entrepreneurs to work systematically, making informed decisions backed by intelligent insights. Whether managing HR tasks, handling finances, or planning for the future, each section is equipped with an AI companion, transforming the entrepreneurial journey into a well-guided and efficient experience.
 
-  <h2>Getting Started</h2>
-  # Contribution Guidelines
 
-🚀 **Welcome to Lone Founder! We're thrilled to have you contribute.**
 
 ## How to Contribute
 
