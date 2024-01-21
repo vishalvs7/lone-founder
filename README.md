@@ -35,7 +35,7 @@
   <p>Open your browser and go to <a href="http://localhost:3000">http://localhost:3000</a>.</p>
 
   <h2>Code of Conduct</h2>
-  <p>We believe in fostering a welcoming and inclusive community. Please review our <a href="CODE_OF_CONDUCT.md">Code of Conduct</a> to understand the guidelines for participating in this project.</p>
+  <p>We believe in fostering a welcoming and inclusive community. Please review our Code of Conduct file to understand the guidelines for participating in this project.</p>
 
   <h2>Contribution Guidelines</h2>
   <p>We welcome contributions from the community. If you'd like to contribute, please follow our <a href="CONTRIBUTING.md">Contribution Guidelines</a>.</p>
